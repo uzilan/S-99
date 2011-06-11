@@ -1,6 +1,7 @@
 lib/
 lib_managed/
 *.iml
-.idea
+.idea/
 project/build/target/
 project/plugins/target/
+target/
