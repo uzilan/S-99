@@ -1,4 +1,6 @@
-lib
-lib_managed
+lib/
+lib_managed/
 *.iml
 .idea
+project/build/target/
+project/plugins/target/

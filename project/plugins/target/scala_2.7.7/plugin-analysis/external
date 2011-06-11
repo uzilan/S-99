@@ -1,6 +1,6 @@
 #External Dependencies
-#Thu May 05 19:58:09 CEST 2011
-C\:\\Program\ Files\\Java\\jre6\\lib\\rt.jar=src_managed\\sbt-idea-plugin-0.4.0\\IdeaProject.scala
-C\:\\projects\\scala\\S-99\\project\\boot\\scala-2.7.7\\org.scala-tools.sbt\\sbt\\0.7.5.RC0\\sbt_2.7.7-0.7.5.RC0.jar=src_managed\\sbt-idea-plugin-0.4.0\\IdeaProject.scala
-C\:\\projects\\scala\\S-99\\project\\boot\\scala-2.7.7\\lib\\scala-library.jar=src_managed\\sbt-idea-plugin-0.4.0\\IdeaProject.scala
-C\:\\projects\\scala\\S-99\\project\\plugins\\lib_managed\\scala_2.7.7\\sbt-idea-core_2.7.7-0.4.0.jar=src_managed\\sbt-idea-plugin-0.4.0\\IdeaProject.scala
+#Sat Jun 11 10:53:17 CEST 2011
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src_managed/sbt-idea-plugin-0.4.0/IdeaProject.scala
+/Users/uzilandsmann/projects/scala/S-99/project/boot/scala-2.7.7/lib/scala-library.jar=src_managed/sbt-idea-plugin-0.4.0/IdeaProject.scala
+/Users/uzilandsmann/projects/scala/S-99/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5.RC0/sbt_2.7.7-0.7.5.RC0.jar=src_managed/sbt-idea-plugin-0.4.0/IdeaProject.scala
+/Users/uzilandsmann/projects/scala/S-99/project/plugins/lib_managed/scala_2.7.7/sbt-idea-core_2.7.7-0.4.0.jar=src_managed/sbt-idea-plugin-0.4.0/IdeaProject.scala

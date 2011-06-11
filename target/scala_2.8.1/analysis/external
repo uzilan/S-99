@@ -1,0 +1,4 @@
+#External Dependencies
+#Sat Jun 11 10:58:25 CEST 2011
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar=src/main/scala/WorkingWithLists.scala
+/Users/uzilandsmann/projects/scala/S-99/project/boot/scala-2.8.1/lib/scala-library.jar=src/main/scala/WorkingWithLists.scala
