@@ -133,7 +133,7 @@ class WorkingWithListsTest extends Spec {
 		l.foreach(x => assert(ls.indexOf(x) > -1))
 	}
 	
-	// P23 - lotto	
+	// P24 - lotto
 	it("Should draw 6 different random numbers from 1 to 49") {
 		val l = lotto(6,  49) 
 		assert(l.length == 6)
