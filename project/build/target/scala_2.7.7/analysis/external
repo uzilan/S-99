@@ -1,7 +1,0 @@
-#External Dependencies
-#Sat Jun 11 10:58:17 CEST 2011
-/Users/uzilandsmann/projects/scala/S-99/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5.RC0/ivy_2.7.7-0.7.5.RC0.jar=Project.scala
-/Users/uzilandsmann/projects/scala/S-99/project/plugins/target/scala_2.7.7/plugin-classes/IdeaProject$class.class=Project.scala
-/Users/uzilandsmann/projects/scala/S-99/project/boot/scala-2.7.7/lib/scala-library.jar=Project.scala
-/Users/uzilandsmann/projects/scala/S-99/project/plugins/target/scala_2.7.7/plugin-classes/IdeaProject.class=Project.scala
-/Users/uzilandsmann/projects/scala/S-99/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5.RC0/sbt_2.7.7-0.7.5.RC0.jar=Project.scala
